@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.158f2de4.js",
-    "static/js/787.3193e0fc.chunk.js": "/static/js/787.3193e0fc.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.158f2de4.js.map": "/static/js/main.158f2de4.js.map",
-    "787.3193e0fc.chunk.js.map": "/static/js/787.3193e0fc.chunk.js.map"
+    "main.css": "/CapstoneProject/static/css/main.e6c13ad2.css",
+    "main.js": "/CapstoneProject/static/js/main.585b0a9a.js",
+    "static/js/787.3193e0fc.chunk.js": "/CapstoneProject/static/js/787.3193e0fc.chunk.js",
+    "index.html": "/CapstoneProject/index.html",
+    "main.e6c13ad2.css.map": "/CapstoneProject/static/css/main.e6c13ad2.css.map",
+    "main.585b0a9a.js.map": "/CapstoneProject/static/js/main.585b0a9a.js.map",
+    "787.3193e0fc.chunk.js.map": "/CapstoneProject/static/js/787.3193e0fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.158f2de4.js"
+    "static/js/main.585b0a9a.js"
   ]
 }
